@@ -17,6 +17,8 @@
 |OpenCollective searx backers|
 |OpenCollective searx sponsors|
 
+Searx engine front w/ countdown timers to extinction of all species
+
 Privacy-respecting, hackable `metasearch engine`_ / *pronunciation* **sɜːks**.
 
 .. _metasearch engine: https://en.wikipedia.org/wiki/Metasearch_engine
